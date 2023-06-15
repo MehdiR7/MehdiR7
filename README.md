@@ -18,7 +18,7 @@ Wie immer, auf der Suche nach einer neuen Erfahrung...
 ## English
 Full-stack .NET developer with more than 15 years of professional experience.
 
-I participated in the development of various projects and achieved really remarkable successes, such as: B. 30% time and cost savings in the implementation of company projects by improving old software and developing new functions, increasing the execution speed of SQL stored procedures up to 5x and successfully migrating from Web-Form Framework to MVC and .NET Core.
+I participated in the development of various projects and achieved really remarkable successes, such as 30% time and cost savings in the implementation of company projects by improving old software and developing new functions, increasing the execution speed of SQL stored procedures up to 5x and successfully migrating from Web-Form Framework to MVC and .NET Core.
 
 Problem solving, learning new things and teamwork are my most important social skills. I am also hardworking, regular and reliable in my work.
 
@@ -30,7 +30,7 @@ As always , looking for a new experience...
 
 توسعه دهنده دات نت فول استک با بیش از 15 سال تجربه حرفه ای.
 
-من در توسعه پروژه های مختلف شرکت کردم و به موفقیت های واقعاً چشمگیری دست یافتم، مانند: صرفه جویی 30 درصدی در زمان و هزینه در اجرای پروژه های شرکت با بهبود نرم افزارهای قدیمی و توسعه عملکردهای جدید، افزایش سرعت اجرای رویه های ذخیره شده SQL تا حدود 5 برابر و یک انتقال موفق و کامل یک پروژه از Web-Form Framework به MVC و NET Core.
+من در توسعه پروژه های مختلف شرکت کردم و به موفقیت های واقعاً چشمگیری دست یافتم، به طور مثال، صرفه جویی 30 درصدی در زمان و هزینه در اجرای پروژه های شرکت با بهبود نرم افزارهای قدیمی و توسعه عملکردهای جدید، افزایش سرعت اجرای رویه های ذخیره شده SQL تا حدود 5 برابر و یک انتقال موفق و کامل یک پروژه از Web-Form Framework به MVC و NET Core.
 
 حل مسئله، یادگیری چیزهای جدید و کار گروهی مهمترین مهارت های اجتماعی من هستند. من در کارم سخت کوش، منظم و قابل اعتماد هستم.
 
